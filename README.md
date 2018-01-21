@@ -2,7 +2,7 @@
 
 My solutions for the courses.
 
-Don't cheat, please, bitch..
+Don't cheat, please, ~bitch~..
 
 # License
-¯\_(ツ)_/¯
+  ¯\_(ツ)_/¯
