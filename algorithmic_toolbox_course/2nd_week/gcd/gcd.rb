@@ -20,7 +20,15 @@ def gcd(a, b)
   best
 end
 
-puts gcd(n[0], n[1])
+def gcd_fast(a, b)
+  return a if b == 0
+
+  remiander = a % b
+  return gcd_fast(b, remiander)
+end
+
+#puts gcd(n[0], n[1])
+puts gcd_fast(n[0], n[1])
 
 # Stress test
 # while true do
